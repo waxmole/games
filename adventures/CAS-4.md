@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Adventures
+title: CAS-4: The Forgetting of Lockwood Manor
+---
+
 # The Forgetting of Lockwood Manor
 
 **Cairn Adventure Series 4**

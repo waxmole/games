@@ -1,15 +1,17 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-permalink: pretty
-logo: "/img/logo.svg"
-color_scheme: dark
-encoding: UTF-8
 plugins:
-  - jekyll-redirect-from
   - jekyll-sitemap
 include:
   - js
+
+group :jekyll_plugins do
+        gem "jekyll-hover-popup" # Link hovering preview windows
+        gem "jekyll-jtd-toc-nav" # Table of Contents in the navigation bar
+        gem "jekyll-dice-tray" # Dice tray with clickable dice notation recognition
+        gem "jekyll-image-links" # Custom image-map features
+end
 
 # Back to top link
 back_to_top: true

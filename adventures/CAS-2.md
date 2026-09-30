@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Adventures
+title: CAS-2: Rise of the Blood Olms
+---
 
 ![[BloodOlm_Cover.png]]
 

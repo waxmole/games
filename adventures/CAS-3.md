@@ -1,3 +1,10 @@
+---
+layout: default
+parent: Adventures
+title: CAS-3: The Feast of Tegny Wood
+---
+
+
 # CAS-3: The Feast of Tegny Wood
 
 _CAS-3: The Feast of Tegny Wood_ is a standalone Cairn Second Edition adventure of disease, duty, and decay, set in a haunted corner of Vald. During the holiday of Bartermoot, traders and Woodfolk meet in uneasy peace.
